@@ -2,7 +2,7 @@
 
 # Hey there! I'm Faizan 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Engineer+in+the+Making;Deep+Learning+%26+NLP+Enthusiast;Anime+Connoisseur+%7C+Manga+Collector)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Engineer;Deep+Learning+%26+NLP+Enthusiast;Anime+Connoisseur+%7C+Manga+Collector)](https://git.io/typing-svg)
 
 </div>
 
