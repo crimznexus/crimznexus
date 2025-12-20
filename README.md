@@ -13,7 +13,8 @@
 ```python
 class Faizan:
     def __init__(self):
-        self.role = "ML Engineer in the Making 🚀"
+        self.role = "ML Engineer. 🚀"
+        self.role = "Computer System Engineering Graguate. 🚀"
         self.currently_learning = ["Deep Learning", "NLP", "Making Machines Think"]
         self.fun_fact = "I debug code by day, binge anime by night 🌙"
         
