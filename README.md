@@ -1,8 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Faizan%20%E2%80%94%20ML%20Engineer&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Deep%20Learning%20%E2%80%A2%20NLP%20%E2%80%A2%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18" width="100%" />
+
 <div align="center">
 
-# Hey there! I'm Faizan 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Engineer;Deep+Learning+%26+NLP+Enthusiast;Anime+Connoisseur+%7C+Manga+Collector)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Machine+Learning+Engineer+%F0%9F%A4%96;Deep+Learning+%26+NLP+Specialist;Computer+Systems+Engineering+Graduate;Anime+Connoisseur+%7C+Manga+Collector+%F0%9F%93%96)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,25 +13,51 @@
 ```python
 class Faizan:
     def __init__(self):
-        self.role = "ML Engineer. 🚀"
-        self.role = "Computer System Engineering Graguate. 🚀"
-        self.currently_learning = ["Deep Learning", "NLP", "Making Machines Think"]
-        self.fun_fact = "I debug code by day, binge anime by night 🌙"
-        
+        self.role        = "ML Engineer 🚀"
+        self.education   = "Computer Systems Engineering Graduate 🎓"
+        self.currently   = ["Deep Learning", "NLP", "Transformer Architectures"]
+        self.fun_fact    = "I debug models by day, binge anime by night 🌙"
+
     def hobbies(self):
-        return ["📺 Watching Anime", "📖 Reading Manga & Light Novels", "🧠 Teaching AI to be less dumb"]
+        return [
+            "📺 Watching Anime",
+            "📖 Reading Manga & Light Novels",
+            "🧠 Teaching AI to be less dumb"
+        ]
+
+    def current_focus(self):
+        return "Building models that understand humans better than humans do 🤖"
 ```
 
 > *"Training neural networks and my patience... one epoch at a time."*
 
-| 🔭 Currently Working On | Machine Learning projects that hopefully won't become Skynet |
-|:------------------------|:-------------------------------------------------------------|
-| 🌱 Learning | Deep Learning & NLP — because understanding humans is hard |
-| ⚡ Off-Screen | Surviving emotional damage from anime endings |
+<br/>
+
+| | |
+|:--|:--|
+| 🔭 **Working On** | ML projects that hopefully won't become Skynet |
+| 🌱 **Studying** | Deep Learning · NLP · Transformer Architectures |
+| 💼 **Open To** | ML/AI roles & research collaborations |
+| ⚡ **Off-Screen** | Surviving emotional damage from anime endings |
+| 📍 **Location** | Pakistan 🇵🇰 |
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Featured Projects
+
+<div align="center">
+
+> 🔨 **Projects section coming soon** — polishing up some ML experiments. Stay tuned!
+>
+> In the meantime, feel free to browse my [repositories](https://github.com/crimznexus?tab=repositories) directly.
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+> I'm always excited to discuss AI, collaborate on projects, or just talk anime!
 
 <div align="center">
 
@@ -44,33 +70,34 @@ class Faizan:
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### 🧠 Languages
+### 🤖 Machine Learning & AI  *(Primary Specialty)*
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
-</div>
-
-### 🤖 ML & Data Science
-<div align="center">
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![MLflow](https://img.shields.io/badge/MLflow-%230194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white)
+
+</div>
+
+### 🧠 Languages
+<div align="center">
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 </div>
 
@@ -85,16 +112,16 @@ class Faizan:
 
 </div>
 
-### 🛠️ Tools & Frameworks
+### 🗄️ Tools & Databases
 <div align="center">
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Selenium](https://img.shields.io/badge/selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 
 </div>
 
@@ -104,11 +131,10 @@ class Faizan:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Crimznexus&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crimznexus&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Crimznexus&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Crimznexus&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crimznexus&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crimznexus&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 </div>
 
@@ -118,41 +144,23 @@ class Faizan:
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Crimznexus&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Crimznexus&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 📋 Profile Summary
+## 💬 Dev Quote of the Day
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Crimznexus&theme=tokyonight)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Crimznexus&theme=tokyonight" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Crimznexus&theme=tokyonight" alt="Most Commit Language" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Crimznexus&theme=tokyonight" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Crimznexus&theme=tokyonight&utcOffset=5" alt="Productive Time" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Crimznexus&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7)
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
 ---
 
 <div align="center">
-
-### 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Crimznexus/Crimznexus/output/github-contribution-grid-snake-dark.svg)
 
@@ -164,6 +172,8 @@ class Faizan:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Crimznexus&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
-**Thanks for stopping by! Let's connect and build something awesome together 🚀**
+**Thanks for stopping by — let's connect and build something intelligent together! 🤖🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
 </div>
