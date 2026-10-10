@@ -75,8 +75,6 @@ Selected work is available in my [repositories](https://github.com/crimznexus?ta
 
 ---
 
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -116,8 +114,6 @@ Selected work is available in my [repositories](https://github.com/crimznexus?ta
 
 ---
 
----
-
 <div align="center">
 
 <picture>
@@ -125,8 +121,6 @@ Selected work is available in my [repositories](https://github.com/crimznexus?ta
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Crimznexus/Crimznexus/output/github-contribution-grid-snake.svg" />
   <img src="https://raw.githubusercontent.com/Crimznexus/Crimznexus/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </picture>
-
-</div>
 
 </div>
 
