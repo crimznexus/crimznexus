@@ -1,78 +1,26 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Faizan%20%E2%80%94%20ML%20Engineer&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Deep%20Learning%20%E2%80%A2%20NLP%20%E2%80%A2%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Machine%20Learning%20Engineer&fontSize=40&fontColor=fff&fontAlignY=38&desc=Deep%20Learning%20%E2%80%A2%20NLP%20%E2%80%A2%20Intelligent%20Systems&descAlignY=60&descSize=16" width="100%" />
 
-<div align="center">
+## About
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Machine+Learning+Engineer+%F0%9F%A4%96;Deep+Learning+%26+NLP+Specialist;Computer+Systems+Engineering+Graduate;Anime+Connoisseur+%7C+Manga+Collector+%F0%9F%93%96)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 💫 About Me
-
-```python
-class Faizan:
-    def __init__(self):
-        self.role        = "ML Engineer 🚀"
-        self.education   = "Computer Systems Engineering Graduate 🎓"
-        self.currently   = ["Deep Learning", "NLP", "Transformer Architectures"]
-        self.fun_fact    = "I debug models by day, binge anime by night 🌙"
-
-    def hobbies(self):
-        return [
-            "📺 Watching Anime",
-            "📖 Reading Manga & Light Novels",
-            "🧠 Teaching AI to be less dumb"
-        ]
-
-    def current_focus(self):
-        return "Building models that understand humans better than humans do 🤖"
-```
-
-> *"Training neural networks and my patience... one epoch at a time."*
-
-<br/>
+Machine learning engineer focused on deep learning and natural language processing. I design, train, and evaluate models, with an emphasis on transformer architectures and clean, reproducible engineering.
 
 | | |
 |:--|:--|
-| 🔭 **Working On** | ML projects that hopefully won't become Skynet |
-| 🌱 **Studying** | Deep Learning · NLP · Transformer Architectures |
-| 💼 **Open To** | ML/AI roles & research collaborations |
-| ⚡ **Off-Screen** | Surviving emotional damage from anime endings |
-| 📍 **Location** | Pakistan 🇵🇰 |
+| **Focus** | Deep Learning · NLP · Transformer Architectures |
+| **Background** | Computer Systems Engineering graduate |
+| **Open To** | ML/AI engineering roles and research collaboration |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<div align="center">
-
-> 🔨 **Projects section coming soon** — polishing up some ML experiments. Stay tuned!
->
-> In the meantime, feel free to browse my [repositories](https://github.com/crimznexus?tab=repositories) directly.
-
-</div>
+Selected work is available in my [repositories](https://github.com/crimznexus?tab=repositories). More projects will be added here.
 
 ---
 
-## 🌐 Let's Connect
+## Tech Stack
 
-> I'm always excited to discuss AI, collaborate on projects, or just talk anime!
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/engr_faizan_official)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/engr-faizan)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/ICrimsoncodes)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ICrimsoncodes@outlook.com)
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### 🤖 Machine Learning & AI  *(Primary Specialty)*
+### Machine Learning & AI
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -90,7 +38,7 @@ class Faizan:
 
 </div>
 
-### 🧠 Languages
+### Languages
 <div align="center">
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -101,7 +49,7 @@ class Faizan:
 
 </div>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 <div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -112,7 +60,7 @@ class Faizan:
 
 </div>
 
-### 🗄️ Tools & Databases
+### Tools & Databases
 <div align="center">
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -127,7 +75,9 @@ class Faizan:
 
 ---
 
-## 📊 GitHub Stats
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -152,7 +102,7 @@ class Faizan:
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -166,18 +116,6 @@ class Faizan:
 
 ---
 
-## 💬 Dev Quote of the Day
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote" />
-</picture>
-
-</div>
-
 ---
 
 <div align="center">
@@ -190,14 +128,12 @@ class Faizan:
 
 </div>
 
+</div>
+
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Crimznexus&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
-
-**Thanks for stopping by — let's connect and build something intelligent together! 🤖🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
